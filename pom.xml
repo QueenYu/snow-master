@@ -38,7 +38,7 @@
         <commons.lang3.version>3.11</commons.lang3.version>
         <com.alipay.sdk.version>3.7.4.ALL</com.alipay.sdk.version>
         <easyexcel.version>2.1.6</easyexcel.version>
-        <com.aliyun.oss.version>3.9.1</com.aliyun.oss.version>
+        <com.aliyun.oss.version>3.18.5</com.aliyun.oss.version>
         <commons.lang.version>2.6</commons.lang.version>
         <lombok.version>1.18.10</lombok.version>
         <zhyd.oauth.version>1.16.5</zhyd.oauth.version>
